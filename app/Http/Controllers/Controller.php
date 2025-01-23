@@ -12,5 +12,6 @@ class Controller extends BaseController
     //teste commit
     // outro comentario 
 
+    // teste commit marcelo
     use AuthorizesRequests, DispatchesJobs, ValidatesRequests;
 }
